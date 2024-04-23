@@ -1,6 +1,16 @@
 # Welcome to Unical
 
-UniCal 🗒️ is a calendar-based platform designed for students at the University of Liverpool.
+[UniCal](https://unical.liverpooooool.online/) 🗒️ is a calendar-based platform designed for students at the University of Liverpool.
+
+## Configuration before Start
+
+```sh
+pnpm install
+```
+
+```sh
+pnpm dev
+```
 
 ## Quick Start
 
@@ -14,27 +24,27 @@ UniCal 🗒️ is a calendar-based platform designed for students at the Univers
 - Academic and semester must be set initially.
 - If not set, no further buttons can be clicked.
 
-### Timetable Import [Add](https://timetables.liverpool.ac.uk/)
-- Import personal and the programme timetable from [https://timetables.liverpool.ac.uk/](https://timetables.liverpool.ac.uk/)
+### Timetable Import [Add](#)
+- Import personal and the programme timetable from [Uni Liverpool Timetable: https://timetables.liverpool.ac.uk/](https://timetables.liverpool.ac.uk/)
 - View semester1 / semester2 / programme.
 - Save it as HTML format.
 
 ### Self-defined Activity (private) [Add](#)
-- Activity Market (choose from public activity) [Add](#)
+### Activity Market (choose from public activity) [Add](#)
 - Set all details for your private activity, 
   or choose and participate in public activities (take seats 💺).
 
-### Statistics View
+### Statistics [View](#)
 - View your events counts 📊 by different event types.
 - Customize colors 🎨 preferred other than the default.
 - View as Day / Week / Month inCalendar
 
-### Search View
+### Search [View](#)
 - Search 🔍 by code / activity / comment(fuzzy match) / location / teacher
   proceed step by step,
   Then go to the event details.
 
-### My Comments View
+### My Comments [View](#)
 - Make comments 💬 on the detail page of all events.
 - View all “My Comments”.
 
@@ -70,39 +80,3 @@ UniCal 🗒️ is a calendar-based platform designed for students at the Univers
 ## Website Traffic: (beta)
 
 
-
-# Default File
-
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-pnpm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-pnpm dev
-```
-
-### Compile and Minify for Production
-
-```sh
-pnpm build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-pnpm lint
-```
