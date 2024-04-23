@@ -1,13 +1,15 @@
 # Welcome to Unical
 
-[UniCal](https://unical.liverpooooool.online/) 🗒️ is a calendar-based platform designed for students at the University of Liverpool.
+[UniCal](http://unical.liverpooooool.online/) 🗒️ is a calendar-based platform designed for students at the University of Liverpool.
 
 ## Configuration before Start
+
+Clone to your device.
+‘cd’ to the file in the terminal.
 
 ```sh
 pnpm install
 ```
-
 ```sh
 pnpm dev
 ```
