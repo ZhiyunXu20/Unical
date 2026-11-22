@@ -1,0 +1,56 @@
+{
+  "source": "https://www.liverpool.ac.uk/term-dates/",
+  "note": "Teaching weeks only. 'weeks break' and 'weeks teaching and assessment' (exams) rows have no classes. Years before 2026/27 come from the original Unical project's hand-written table, with its known errors fixed.",
+  "updated": "2026-11-22",
+  "years": {
+    "2022/23": {
+      "S1": [{ "start": "2022-09-26", "fromWeek": 1, "toWeek": 12 }],
+      "S2": [
+        { "start": "2023-01-30", "fromWeek": 1, "toWeek": 8 },
+        { "start": "2023-04-17", "fromWeek": 9, "toWeek": 12 }
+      ]
+    },
+    "2023/24": {
+      "S1": [{ "start": "2023-09-25", "fromWeek": 1, "toWeek": 12 }],
+      "S2": [
+        { "start": "2024-01-29", "fromWeek": 1, "toWeek": 8 },
+        { "start": "2024-04-15", "fromWeek": 9, "toWeek": 12 }
+      ]
+    },
+    "2024/25": {
+      "S1": [{ "start": "2024-09-23", "fromWeek": 1, "toWeek": 12 }],
+      "S2": [
+        { "start": "2025-01-27", "fromWeek": 1, "toWeek": 10 },
+        { "start": "2025-04-28", "fromWeek": 11, "toWeek": 12 }
+      ]
+    },
+    "2025/26": {
+      "S1": [{ "start": "2025-09-22", "fromWeek": 1, "toWeek": 12 }],
+      "S2": [
+        { "start": "2026-01-26", "fromWeek": 1, "toWeek": 8 },
+        { "start": "2026-04-13", "fromWeek": 9, "toWeek": 12 }
+      ]
+    },
+    "2026/27": {
+      "S1": [{ "start": "2026-09-28", "fromWeek": 1, "toWeek": 12 }],
+      "S2": [
+        { "start": "2027-02-01", "fromWeek": 1, "toWeek": 7 },
+        { "start": "2027-04-12", "fromWeek": 8, "toWeek": 12 }
+      ]
+    },
+    "2027/28": {
+      "S1": [{ "start": "2027-09-27", "fromWeek": 1, "toWeek": 12 }],
+      "S2": [
+        { "start": "2028-01-31", "fromWeek": 1, "toWeek": 9 },
+        { "start": "2028-04-24", "fromWeek": 10, "toWeek": 12 }
+      ]
+    },
+    "2028/29": {
+      "S1": [{ "start": "2028-09-25", "fromWeek": 1, "toWeek": 12 }],
+      "S2": [
+        { "start": "2029-01-29", "fromWeek": 1, "toWeek": 8 },
+        { "start": "2029-04-16", "fromWeek": 9, "toWeek": 12 }
+      ]
+    }
+  }
+}
