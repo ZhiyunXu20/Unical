@@ -1,0 +1,23 @@
+{
+  "name": "unical-ics-tool",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Static, browser-only tool that converts a saved university timetable HTML page (Liverpool / XJTLU) into an .ics calendar file.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "update-terms": "node scripts/update-liverpool-terms.mjs"
+  },
+  "dependencies": {
+    "vue": "^3.4.21"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "jsdom": "^24.0.0",
+    "vite": "^5.2.10",
+    "vitest": "^1.6.0"
+  }
+}

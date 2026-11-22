@@ -1,0 +1,5 @@
+node_modules
+dist
+# Real timetables contain personal data: never commit them.
+private/
+*.real.html
